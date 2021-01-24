@@ -7,4 +7,4 @@ What I'm working on 👨‍💻
 Junior Java Developer.
 
 Find me elsewhere 🌎
-[Flex Grid](https://www.linkedin.com/in/vitormanoel/)
+[Linkedin](https://www.linkedin.com/in/vitormanoel/)
