@@ -4,11 +4,11 @@
 <p> 🇧🇷 Born in Pernambuco, Brazil </p>
 
 ### Currently studying 👨‍💻 
-<img src="https://img.shields.io/badge/-Java-red"/>
+<p> <img src="https://img.shields.io/badge/-Java-red"/>
 <img src="https://img.shields.io/badge/-Spring%20Framework-green"/>
 <img src="https://img.shields.io/badge/-REST%20API-blue"/> 
 <img src="https://img.shields.io/badge/-MySQL-lightgrey"/> 
-<img src="https://img.shields.io/badge/-AWS-orange"/> 
+<img src="https://img.shields.io/badge/-AWS-orange"/> </p>
 
 
 
