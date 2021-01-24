@@ -6,7 +6,7 @@
 ### What I'm working on 👨‍💻
 
 <p> Currently studying. 📚</p>
-<p> <img src="https://img.shields.io/static/v1?message=Java&color=#ff0000c1"/> </p>
+<p> <img src="https://img.shields.io/badge/-Java-red"/> </p>
 
 
 ### Find me elsewhere 🌎
