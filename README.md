@@ -5,8 +5,11 @@
 
 ### What I'm working on 👨‍💻
 
-<p> Currently studying. 📚</p>
-<p> <img src="https://img.shields.io/badge/-Java-red"/> </p>
+<p> Currently studying 📚</p>
+<img src="https://img.shields.io/badge/-Java-red"/>
+<img src="https://img.shields.io/badge/-Spring%20Framework-green"/>
+<img src="https://img.shields.io/badge/-MySQL-blue"/> 
+
 
 
 ### Find me elsewhere 🌎
