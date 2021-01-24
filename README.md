@@ -5,7 +5,9 @@
 
 ### What I'm working on 👨‍💻
 
-<p> Junior Java Developer. </p>
+<p> Currently studying. </p>
+<p> https://img.shields.io/badge/-Java-red. </p>
+
 
 ### Find me elsewhere 🌎
 
