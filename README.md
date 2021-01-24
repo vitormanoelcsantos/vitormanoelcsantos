@@ -6,7 +6,7 @@
 ### What I'm working on 👨‍💻
 
 <p> Currently studying. </p>
-<p> ![Badge](https://img.shields.io/badge/-Java-red) </p>
+![Badge](https://img.shields.io/badge/-Java-red)
 
 
 ### Find me elsewhere 🌎
