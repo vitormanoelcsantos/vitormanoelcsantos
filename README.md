@@ -1,7 +1,7 @@
 ### Hi, I'm Vitor Manoel 👋
 
-💻 <p> Bachelor of Computer Science </p>
-🇧🇷 <p> Born in Pernambuco, Brazil </p>
+<p>💻 Bachelor of Computer Science </p>
+<p> 🇧🇷 Born in Pernambuco, Brazil </p>
 
 ### What I'm working on 👨‍💻
 
