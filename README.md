@@ -1,11 +1,11 @@
 ### Hi, I'm Vitor Manoel 👋
 
-💻 Bachelor of Computer Science
-🇧🇷 Born in Pernambuco, Brazil
+💻 <p> Bachelor of Computer Science </p>
+🇧🇷 <p> Born in Pernambuco, Brazil </p>
 
 ### What I'm working on 👨‍💻
 
-Junior Java Developer.
+<p> Junior Java Developer. </p>
 
 ### Find me elsewhere 🌎
 
