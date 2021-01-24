@@ -9,4 +9,4 @@ Junior Java Developer.
 
 ### Find me elsewhere 🌎
 
-[Linkedin](https://www.linkedin.com/in/vitormanoel/)
+💼[Linkedin](https://www.linkedin.com/in/vitormanoel/)
