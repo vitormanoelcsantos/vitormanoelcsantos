@@ -10,4 +10,4 @@
 💼[Linkedin](https://www.linkedin.com/in/vitormanoel/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormanoelcsantos)](https://github.com/anuraghazra/github-readme-stats)&bg_color=DEG,COLOR1,COLOR2,COLOR3
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormanoelcsantos)](https://github.com/anuraghazra/github-readme-stats)
