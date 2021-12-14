@@ -7,7 +7,7 @@
 
 ### Find me elsewhere 🌎
 
-💼[Linkedin](https://www.linkedin.com/in/vitormanoel/)
+💼[Linkedin](https://www.linkedin.com/in/vitormanoel/) [Behance](https://www.linkedin.com/in/vitormanoel/)
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormanoelcsantos&show_icons=true&theme=radical)
 
