@@ -1,6 +1,6 @@
 ### Hi, I'm Vitor Manoel 👋
 
-<p>Bachelor of Computer Science 💻</p>
+<p>UX/UI Designer 💻</p>
 <p>Born in Pernambuco, Brazil 🇧🇷 </p>
 
 ### Currently studying 👨‍💻 
