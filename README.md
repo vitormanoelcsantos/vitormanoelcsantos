@@ -1,6 +1,6 @@
 ### Hi, I'm Vitor Manoel 👋
 
-<p>UX/UI Designer 💻</p>
+<p>UX/UI Designer | Designer de produtos | Product Designer 💻</p>
 <p>Born in Pernambuco, Brazil 🇧🇷 </p>
 
 ### Currently studying 👨‍💻 
